@@ -5,4 +5,4 @@
 3. Скопировать .template.env в .env
 4. Отредактировать .env, ввести свою конфигурацию
 5. Провести миграцию БД npm run migrate:up
-
+6. npm run serve
